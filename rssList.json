@@ -1,0 +1,29 @@
+{
+  "records": [
+    {
+      "url": "https://www.congress.gov/rss/presented-to-president.xml",
+      "title": "On the presidents desk",
+      "generate": true
+    },
+    {
+      "url": "https://www.congress.gov/rss/house-floor-today.xml",
+      "title": "On the house floor",
+      "generate": true
+    },
+    {
+      "url": "https://www.congress.gov/rss/senate-floor-today.xml",
+      "title": "On the senate floor",
+      "generate": true
+    },
+    {
+      "url": "https://bills.parliament.uk/rss/publicbills.rss",
+      "title": "UK Parliament - Commons - bills",
+      "generate": false
+    },
+    {
+      "url": "https://bills.parliament.uk/rss/privatebills.rss",
+      "title": "UK Parliament - Lords - bills",
+      "generate": false
+    }
+  ]
+}
